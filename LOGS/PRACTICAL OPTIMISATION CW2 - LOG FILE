@@ -1,0 +1,70 @@
+PRACTICAL OPTIMISATION CW2 - LOG FILE
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 89
+The number of function evaluations was : 4500
+The best function value found was : 2.72134e-05
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+
+Population =
+
+    0.8278    0.3874
+    0.0999    0.4407
+    0.0789    0.2211
+
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 89
+The number of function evaluations was : 900
+The best function value found was : 0.00567027
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 0.000115869
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 0.000508859
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 0.000253295
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 0.000253295
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 0.000253295
+Optimization terminated: stop requested from plot function.
+The number of generations was : 56
+The number of function evaluations was : 570
+The best function value found was : 0.0173224
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 97
+The number of function evaluations was : 4900
+The best function value found was : 0.00640489
+>> gaoptionsdemo
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 51
+The number of function evaluations was : 2600
+The best function value found was : 1.74453e-11
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+
+Population =
+
+    0.1735    0.2372
+    0.7120    0.0316
+    0.6909    0.1771
+
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 73
+The number of function evaluations was : 740
+The best function value found was : 1.80736e-09
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 9.82673e-12
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 1.28041e-09
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 5.24078e-09
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 5.24078e-09
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The best function value found was : 5.24078e-09
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 110
+The number of function evaluations was : 1110
+The best function value found was : 8.24944e-08
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance.
+The number of generations was : 51
+The number of function evaluations was : 2600
+The best function value found was : 1.7709e-12

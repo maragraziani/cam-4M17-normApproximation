@@ -1,0 +1,64 @@
+
+REF.:
+https://www.cs.ubc.ca/~schmidtm/Software/lasso.html
+
+https://stanford.edu/~boyd/l1_ls/l1_ls_usrguide.pdf
+
+http://web.stanford.edu/~boyd/papers/pdf/l1_ls.pdf
+
+http://web.stanford.edu/~boyd/papers/l1_ls.html
+
+https://en.wikipedia.org/wiki/Lasso_(statistics)
+
+http://web.stanford.edu/class/msande318/homework/projectLASSO/projectLASSO.pdf
+
+lambda =
+
+    0.0486
+
+
+sparsity_pattern_lasso =
+
+     7
+    27
+    28
+    29
+    50
+    54
+    55
+    58
+
+
+x_nonzero =
+
+    0.1026 & -0.0921 & -0.1440 &  0.0807 & -0.1452 &  0.4159 & -0.2044 & -0.0875
+
+
+lambda =
+
+    0.0486
+
+
+sparsity_pattern_lasso =
+
+     7
+    27
+    28
+    29
+    50
+    54
+    55
+    58
+
+
+x_nonzero =
+
+    0.1026
+   -0.0921
+   -0.1440
+    0.0807
+   -0.1452
+    0.4159
+   -0.2044
+   -0.0875
+
